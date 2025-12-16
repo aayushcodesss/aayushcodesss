@@ -51,7 +51,4 @@ I’m a computer science student passionate about building real-world products, 
   ### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushcodesss&layout=compact&theme=tokyonight)
 
-  ### 📊 GitHub Stats
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushcodesss&show_icons=true&theme=tokyonight&hide_rank=true)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=aayushcodesss&color=blue)
